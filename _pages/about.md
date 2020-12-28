@@ -3,6 +3,18 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+국내 대기업 데이터사이언스팀에서 밥벌이 하고 있는 HPark 입니다.
+데이터 분석으로 밥벌이를 한지 이제 8년정도가 되어가니, 논문도 쓰고 특허도 내고 그럽니다.
+주 업무는
+---
+데이터 주세요~ 뿌잉뿌잉: 50%
+데이터 massage: 30%
+기대효과 뻥튀기: 20%
+---
+정도 되는것 같고요.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+밥벌이는 하는데, 잘하는지는 모르겠어요.
+
+저는
+`Let the Data Speak for Themselves`
+을 모토로 일하고 있는데, 실제 그런것 같진 않아요.
