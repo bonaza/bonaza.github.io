@@ -11,7 +11,6 @@ title: "About"
 ![주 업무](/images/about.png){: width="300" height="300"}  
 정도 되는것 같고요.
 
---
-저는  
+그리고 저는  
 `Let the Data Speak for Themselves`  
 을 모토로 일하고 있는데, 실제 그런것 같진 않아요.
