@@ -8,7 +8,7 @@ title: "About"
 **밥벌이는 하는데, 잘하는지는 모르겠어요.**
 
 주 업무는  
-![주 업무](/images/about.png){: width="300" height="300"}  
+![주 업무](/images/about.png){: width="400" height="400"}  
 정도 되는것 같고요.
 
 그리고 저는  
