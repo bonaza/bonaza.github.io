@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "HPark"
   avatar           : "/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "데이터 분석으로<br> 밥벌이 하는<br> 데이터 분석가"
+  bio              : "데이터 분석으로<br> 밥벌이 하는<br> "
   location         : "Republic of Korea"
   email            :
   links:
